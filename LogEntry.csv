@@ -1,0 +1,2 @@
+ACL,_class_name,_created_at,_object_id,_updated_at,aircraft,hobbsDuration,hobbsEnd,hobbsStart,logDate,logType,nonFlightReason,tachDuration,tachEnd,tachStart
+"{'2YcbOo3nY6': {'write': True, 'read': True}, '*': {'read': True}}",LogEntry,2013-02-12T15:51:48.034Z,Ub4jTdvDr7,2013-02-12T15:51:48.034Z,wDVoBoHhje,0,0,0,2013-02-12 15:51:28.013000,nonflight,Weather,0,0,0
